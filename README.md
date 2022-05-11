@@ -5,7 +5,7 @@
 - 🌱 Currently learning **JavaScript** ...
 -  👷I am ready to work with others of like minds
 -  🎮Hobbies: Listening to music and playing games
--. 👨‍🎓Currently studying EEE @OAUIFE.
+-  👨‍🎓Currently studying EEE @OAUIFE.
 
 # connect with me:
 - <a href="https://twitter.com/sioplightman?t=k8v49GbGCBmOpgO8yMrZow&s=09">Twitter<i class="fa fa-twitter" aria-hidden="true"></i><a>
