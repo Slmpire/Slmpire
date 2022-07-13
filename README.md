@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pelumi Ogunleye
 
-# 👨‍💻A programmer✌️
+# 👨‍💻A Frontend developer✌️
 -  😎Super cool in **HTML & CSS** 
 - 🌱 Currently learning **JavaScript** ...
 -  👷I am ready to work with others of like minds
