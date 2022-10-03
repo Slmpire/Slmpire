@@ -10,7 +10,7 @@
 
 # connect with me:
 - <a href="https://twitter.com/sioplightman?t=k8v49GbGCBmOpgO8yMrZow&s=09"><img alt="TW" src="https://res.cloudinary.com/slmedia/image/upload/v1652302113/samples/food/fa_twitter-16x16-761629_rhy95g.png" /><a>
-  - <a href="https://www.linkedin.com/in/pelumi-miracle-38b157212"><i class="fa-brands fa-linkedin-in" style="width: 10px; height : 10px;"></i><a>
+  - <a href="https://www.linkedin.com/in/pelumi-miracle-38b157212"><img alt="LI" src=" https://res.cloudinary.com/slmedia/image/upload/v1652302113/samples/food/linkedin-16x16-761611_a8dv2c.png" /><a><a>
 # Tool and languages
 > **VSCODE** **HTML** **CSS** **JAVASCRIPT** **C/C++** **NODE.JS**
   
