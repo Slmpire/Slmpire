@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Pelumi Ogunleye
 
+# 👋 Can refer to me as D_Sioplight😎
 # 👨‍💻A Frontend developer✌️
 -  😎Super cool in **HTML , CSS & Javascript** 
 - 🌱 Currently learning **C/C++** ...
@@ -13,7 +14,7 @@
 # Tool and languages
 > **VSCODE** **HTML** **CSS** **JAVASCRIPT** **C/C++** **NODE.JS**
   
-#BARGES :
+# Badges :
   [![@d_sioplight's Holopin board](https://holopin.io/api/user/board?user=d_sioplight)](https://holopin.io/@d_sioplight)
 <!---
 Slmpire/Slmpire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
