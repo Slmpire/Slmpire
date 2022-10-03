@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pelumi Ogunleye
 
-# 👋 Can refer to me as D_Sioplight😎
+# 👋 Can call me D_Sioplight😎
 # 👨‍💻A Frontend developer✌️
 -  😎Super cool in **HTML , CSS & Javascript** 
 - 🌱 Currently learning **C/C++** ...
