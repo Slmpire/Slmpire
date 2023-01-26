@@ -14,9 +14,8 @@
 > **VSCODE** **HTML** **CSS** **JAVASCRIPT** **C/C++** **NODE.JS**
   
 # Badges :
-  [![@d_sioplight's Holopin board](https://holopin.io/api/user/board?user=d_sioplight)](https://holopin.io/@d_sioplight)
-  [![An image of @d_sioplight's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d_sioplight)](https://holopin.io/@d_sioplight)
-  [![An image of @d_sioplight's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d_sioplight)](https://holopin.io/@d_sioplight)
+  [![@d_sioplight's Holopin board](https://holopin.io/api/user/board?user=d_sioplight)](https://holopin.io/@d_sioplight
+
 <!---
 Slmpire/Slmpire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
