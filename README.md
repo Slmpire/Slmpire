@@ -14,7 +14,6 @@
 > **VSCODE** **HTML** **CSS** **JAVASCRIPT** **C/C++** **NODE.JS**
   
 # Badges :
-  [![@d_sioplight's Holopin board](https://holopin.io/api/user/board?user=d_sioplight)](https://holopin.io/@d_sioplight
 
 <!---
 Slmpire/Slmpire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
