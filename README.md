@@ -39,19 +39,20 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 💼 What I'm Working On
-
-```javascript
-const pelumi = {
-    code: ["HTML", "CSS", "JavaScript", "C", "C++"],
-    tools: ["Node.js", "VS Code", "Git"],
-    currentFocus: "Full-Stack Web Development",
-    learning: ["C/C++", "Advanced JavaScript Patterns"],
-    askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"],
-    hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"]
-};
+## 💼 What I'm Working On `
 ```
+javascript const pelumi = { code: ["HTML", "CSS", "JavaScript", "C", "C++"], tools: ["Node.js", "VS Code", "Git"], currentFocus: "Full-Stack Web Development", learning: ["C/C++", "Advanced JavaScript Patterns"], askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"], hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"] };
+
+```
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Slmpire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -80,7 +81,5 @@ I'm always excited to connect with fellow developers and collaborate on interest
 ### 💭 *"Code is poetry written in logic"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Slmpire&color=blueviolet&style=flat-square)
-
-**Thanks for stopping by! Let's build something amazing together** 🚀
 
 </div>
