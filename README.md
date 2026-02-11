@@ -41,7 +41,14 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 ---
 ## 💼 What I'm Working On `
 ```
-javascript const pelumi = { code: ["HTML", "CSS", "JavaScript", "C", "C++"], tools: ["Node.js", "VS Code", "Git"], currentFocus: "Full-Stack Web Development", learning: ["C/C++", "Advanced JavaScript Patterns"], askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"], hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"] };
+javascript const pelumi = {
+code: ["HTML", "CSS", "JavaScript", "C", "C++"],
+tools: ["Node.js", "VS Code", "Git"],
+currentFocus: "Full-Stack Web Development",
+learning: ["C/C++", "Advanced JavaScript Patterns"],
+askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"],
+hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"]
+};
 
 ```
 ---
