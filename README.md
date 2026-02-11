@@ -40,17 +40,18 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I'm Working On
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Slmpire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slmpire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Slmpire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+```javascript
+const pelumi = {
+    code: ["HTML", "CSS", "JavaScript", "C", "C++"],
+    tools: ["Node.js", "VS Code", "Git"],
+    currentFocus: "Full-Stack Web Development",
+    learning: ["C/C++", "Advanced JavaScript Patterns"],
+    askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"],
+    hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"]
+};
+```
 
 ---
 
@@ -79,5 +80,7 @@ I'm always excited to connect with fellow developers and collaborate on interest
 ### 💭 *"Code is poetry written in logic"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Slmpire&color=blueviolet&style=flat-square)
+
+**Thanks for stopping by! Let's build something amazing together** 🚀
 
 </div>
