@@ -1,23 +1,83 @@
-# 👋 Hi, I’m Pelumi Ogunleye
+<div align="center">
 
-# 👋 Call me D_Sioplight😎
-# 👨‍💻A Frontend developer✌️
--  😎Super cool in **HTML , CSS & Javascript** 
-- 🌱 Currently learning **C/C++** ...
--  👷I am ready to work with others of like minds
--  🎮Hobbies: Listening to music and playing games
--  👨‍🎓Currently studying EEE @OAUIFE.
+# 👨‍💻 Pelumi Ogunleye (D_Sioplight)
 
-# connect with me:
- <a href="https://twitter.com/sioplightman?t=k8v49GbGCBmOpgO8yMrZow&s=09"><img alt="TW" src="https://res.cloudinary.com/slmedia/image/upload/v1652302113/samples/food/fa_twitter-16x16-761629_rhy95g.png" style="height : 15px; width : 15px;" /><a>       ||    <a href="https://www.linkedin.com/in/pelumi-miracle-38b157212"><img alt="LI" src="https://res.cloudinary.com/slmedia/image/upload/v1652302113/samples/food/linkedin-16x16-761611_a8dv2c.png"  style="height : 15px; width : 15px;" /><a><a>
-# Tool and languages
-> **VSCODE** **HTML** **CSS** **JAVASCRIPT** **C/C++** **NODE.JS**
+### Full-Stack Developer | EEE Student @ OAU Ife
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+web%2C+one+line+at+a+time;Full-Stack+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Hey there! I'm **Pelumi**, but you can call me **D_Sioplight** 😎
+
+I'm a passionate full-stack developer who loves crafting beautiful and functional web experiences. When I'm not coding, you'll find me jamming to music 🎵 or diving into epic gaming sessions 🎮.
+
+- 🎓 Studying **Electrical & Electronics Engineering** at OAU Ife
+- 💻 Experienced in building responsive, dynamic web applications
+- 🌱 Currently expanding my skills in **C/C++**
+- 🤝 Open to collaborating on exciting projects
+- ⚡ Fun fact: I believe good code is like good music—it flows!
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Technologies & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-# Badges :
-  [![An image of @d_sioplight's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/d_sioplight)](https://holopin.io/@d_sioplight)
-#
- 
-<!---
-Slmpire/Slmpire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slmpire&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slmpire&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slmpire&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+[![Holopin Badges](https://holopin.me/d_sioplight)](https://holopin.io/@d_sioplight)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers and collaborate on interesting projects!
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sioplightman?t=k8v49GbGCBmOpgO8yMrZow&s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelumi-miracle-38b157212)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slmpire)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is poetry written in logic"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Slmpire&color=blueviolet&style=flat-square)
+
+</div>
