@@ -49,7 +49,6 @@ learning: ["C/C++", "Advanced JavaScript Patterns"],
 askMeAbout: ["Web Development", "Frontend Design", "Problem Solving"],
 hobbies: ["Gaming 🎮", "Music 🎵", "Coding 💻"]
 };
-
 ```
 ---
 
