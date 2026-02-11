@@ -44,11 +44,11 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slmpire&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Slmpire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slmpire&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slmpire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slmpire&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Slmpire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
