@@ -46,15 +46,11 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slmpire&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Slmpire&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
----
-
-### 🤝 Let's Connect!
-
+--
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
