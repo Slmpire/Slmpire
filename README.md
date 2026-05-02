@@ -1,22 +1,23 @@
 <div align="center">
   <h1>👨‍💻 Pelumi Ogunleye (D_Sioplight)</h1>
   <p><strong>Full-Stack Developer | EEE Student @ OAU Ife</strong></p>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+web%2C+one+line+at+a+time;Full-Stack+Developer;Always+learning+and+growing" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
+
 Hey there! I'm **Pelumi**, but you can call me **D_Sioplight** 😎
 
-I'm a passionate full-stack developer who loves crafting beautiful and functional web experiences. When I'm not coding, you'll find me jamming to music 🎵 or diving into epic gaming sessions 🎮.
+Full-stack developer with a hardware side — I build everything from responsive web apps to embedded systems on the ESP32. When I'm not coding, music 🎵 and gaming 🎮 have the rest of my time.
 
 * 🎓 **Education:** Studying Electrical & Electronics Engineering at **Obafemi Awolowo University (OAU)**
-* 💻 **Experience:** Specializing in responsive, dynamic web applications
-* 🌱 **Currently Learning:** Mastering **C/C++** and low-level optimizations
-* 🤝 **Collaboration:** I'm always looking for interesting Open Source projects!
-* ⚡ **Fun fact:** I believe good code is like good music—it flows!
+* 💻 **Focus:** Full-stack web development + embedded systems (ESP32, C/C++)
+* 🔧 **Currently Building:** A timed, payment-gated exam platform with offline-first architecture (React · Node.js · PostgreSQL · Paystack)
+* 🌱 **Currently Learning:** Low-level C/C++, SPI/UART protocols, and hardware-software integration
+* 🤝 **Collaboration:** Always open to interesting open source projects
+* ⚡ **Fun fact:** I believe good code is like good music — it flows!
 
 ---
 
@@ -43,6 +44,19 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
 
 ---
 
+### 🗂️ Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **NaijaQuant** | A quantitative finance platform built for Nigerian market data and analysis | React · Firebase | [Live](https://naijaquant-f9d6d.web.app/) |
+| **Card Validator** | REST API and frontend that validates credit/debit card numbers using the Luhn algorithm | Node.js · Express · HTML/CSS/JS | [Frontend](https://card-validator-frontend.onrender.com/) · [API](https://card-validator-7bzt.onrender.com) |
+| **Tobam Training** | A training and learning management interface for corporate onboarding | React · Vercel | [Live](https://tobam-training-dev.vercel.app/) |
+| **Health Monitor** | Real-time ESP32-based health dashboard tracking heart rate and SpO₂ with stale-data detection | HTML/CSS/JS · Firebase · Node.js · Railway | [Dashboard](https://slmpire.github.io/health-monitor-frontend/) · [Server](https://health-monitor-server-production.up.railway.app) |
+| **Daily Code Journal** | A fullstack journaling app for logging daily coding progress with persistent storage | HTML/CSS/JS · Node.js · PostgreSQL | [Live](https://slmpire.github.io/daily-code-journal/) |
+| **Moflix** | First project — a clean movie browsing UI built with pure HTML and CSS, no frameworks | HTML · CSS | [Live](https://slmpire.github.io/Moflix/) |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -50,7 +64,8 @@ I'm a passionate full-stack developer who loves crafting beautiful and functiona
   <img src="https://streak-stats.demolab.com/?user=Slmpire&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
---
+---
+
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
