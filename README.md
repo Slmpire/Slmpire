@@ -48,7 +48,7 @@ Full-stack developer with a hardware side — I build everything from responsive
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **NaijaQuant** | A quantitative finance platform built for Nigerian market data and analysis | React · REST API || Node.js · Express · HTML/CSS/JS | [Frontend](https://naijaquant-f9d6d.web.app/) · [API](https://naijaquant-backend-575071861522.us-central1.run.app) |
+| **NaijaQuant** | A quantitative finance platform built for Nigerian market data and analysis | React · REST API | Node.js · Express · HTML/CSS/JS | [Frontend](https://naijaquant-f9d6d.web.app/) · [API](https://naijaquant-backend-575071861522.us-central1.run.app) |
 | **Card Validator** | REST API and frontend that validates credit/debit card numbers using the Luhn algorithm | Node.js · Express · HTML/CSS/JS | [Frontend](https://card-validator-frontend.onrender.com/) · [API](https://card-validator-7bzt.onrender.com) |
 | **Tobam Training** | A training and learning management interface for corporate onboarding | React · Vercel | [Live](https://tobam-training-dev.vercel.app/) |
 | **Health Monitor** | Real-time ESP32-based health dashboard tracking heart rate and SpO₂ with stale-data detection | HTML/CSS/JS · Firebase · Node.js · Railway | [Dashboard](https://slmpire.github.io/health-monitor-frontend/) · [Server](https://health-monitor-server-production.up.railway.app) |
