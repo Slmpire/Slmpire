@@ -53,7 +53,6 @@ Full-stack developer with a hardware side — I build everything from responsive
 | **Tobam Training** | A training and learning management interface for corporate onboarding | React · Vercel | [Live](https://tobam-training-dev.vercel.app/) |
 | **Health Monitor** | Real-time ESP32-based health dashboard tracking heart rate and SpO₂ with stale-data detection | HTML/CSS/JS · Firebase · Node.js · Railway | [Dashboard](https://slmpire.github.io/health-monitor-frontend/) · [Server](https://health-monitor-server-production.up.railway.app) |
 | **Daily Code Journal** | A fullstack journaling app for logging daily coding progress with persistent storage | HTML/CSS/JS · Node.js · PostgreSQL | [Live](https://slmpire.github.io/daily-code-journal/) |
-| **Moflix** | First project — a clean movie browsing UI built with pure HTML and CSS, no frameworks | HTML · CSS | [Live](https://slmpire.github.io/Moflix/) |
 
 ---
 
